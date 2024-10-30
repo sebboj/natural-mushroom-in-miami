@@ -1,6 +1,6 @@
 # natural-mushroom-in-miami
 **EZGrader.AI**  
-Our project for Miami AI Hackathon that won 2nd place.  
+Our project for the Kaseya Miami AI Hackathon that won 2nd place.  
 
 With this new tool, teachers no longer have to spend hours grading papers manulally. Instead, this interactive essay grader can grade essays quickly and accurately. Teachers can set their own grading criteria and preferences such as the reading level (K through College) and essay type (argumentative, informative, or persuasive). We chose the davinci LLM model which allows for multilingual processing so that teachers all around the world are able to use this tool.  
 
